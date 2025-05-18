@@ -16,9 +16,9 @@
     ![alt text](screenshots/pictures_1_2.jpg)
       
 3. Установлен и запущен HAProxy, пример перенаправления запросов на разные серверы при обращении к HAProxy:
-   ![alt text](screenshots/picture_1_4.jpg)
+   ![alt text](screenshots/pictures_1_4.jpg)
 
-   ![alt text](screenshots/picture_1_5.jpg)
+   ![alt text](screenshots/pictures_1_5.jpg)
 
    Файл конфигурации [haproxy_HW_1.cfg](files/haproxy_HW_1.cfg)
 
@@ -33,11 +33,11 @@
 
     ### Выполнение
    Перенаправление запросов на разные серверы при обращении к HAProxy c использованием домена example.local
-   ![alt text](screenshots/picture_2_1.jpg)
-    ![alt text](screenshots/picture_2_2.jpg)
+   ![alt text](screenshots/pictures_2_1.jpg)
+    ![alt text](screenshots/pictures_2_2.jpg)
 
    Перенаправление запросов на разные серверы при обращении к HAProxy без домена example.local
-   ![alt text](screenshots/picture_2_3.jpg)
+   ![alt text](screenshots/pictures_2_3.jpg)
 
     Файл конфигурации [haproxy_HW_2.cfg](files/haproxy_HW_2.cfg)
    
