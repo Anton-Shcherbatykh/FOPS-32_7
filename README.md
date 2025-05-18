@@ -37,7 +37,7 @@
    Перенаправление запросов на разные серверы при обращении к HAProxy без домена example.local
    ![alt text](https://github.com/Anton-Shcherbatykh/FOPS-32_7/blob/main/screenshots/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%202_3.jpg)
 
-    Файл конфигурации [haproxy_HW_2.cfg](https://github.com/Anton-Shcherbatykh/FOPS-32_7/blob/main/screenshots/haproxy_HW_2.cfg)
+    Файл конфигурации [haproxy_HW_2.cfg](files/haproxy_HW_2.cfg)
    
 
    
