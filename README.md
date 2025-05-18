@@ -13,10 +13,10 @@
    
     ![alt text](screenshots/picture_1.jpg)
       
-    ![alt text](screenshots/picture_1_2.jpg)
+    ![alt text](screenshots/pictures_1_2.jpg)
       
 3. Установлен и запущен HAProxy, пример перенаправления запросов на разные серверы при обращении к HAProxy:
-   ![alt text](screenshots/picture_1_4)
+   ![alt text](screenshots/picture_1_4.jpg)
 
    ![alt text](screenshots/picture_1_5.jpg)
 
