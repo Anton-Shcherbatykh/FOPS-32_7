@@ -11,7 +11,7 @@
 ### Выполнение
 1. Два simple python сервера запущены
    
-    ![alt text](screenshots/Задание 1.jpg)
+    ![alt text](screenshots/picture_1.jpg)
       
     ![alt text](screenshots/Задание 1_2.jpg)
    
